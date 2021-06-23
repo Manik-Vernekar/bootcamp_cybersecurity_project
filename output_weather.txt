@@ -1,0 +1,8 @@
+Enter the city name: Belgaum
+-------------------------------------------------------------
+Weather Stats for - BELGAUM  || 23 Jun 2021 | 04:13:36 PM
+-------------------------------------------------------------
+Current temperature is: 26.95 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 65 %
+Current wind speed    : 7.2 kmph
